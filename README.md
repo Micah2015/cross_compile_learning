@@ -164,7 +164,7 @@ dpkg -x cross_compile_learning-0.1.0-Linux.deb extract
 
 ![dynamic_section](doc/pictures/dynamic_section.png)
 
-- 安装
+- 安装(需要将deb包拷贝至目标设备上)
 
 ![deb_install](doc/pictures/deb_install.png)
 
